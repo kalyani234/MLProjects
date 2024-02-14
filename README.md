@@ -7,3 +7,5 @@ Other cases have more than two outcomes to classify, in this case it is called m
 A common example for multinomial logistic regression would be predicting the class of an iris flower between 3 different species.
 
 Here we will be using basic logistic regression to predict a binomial variable. This means it has only two possible outcomes.
+
+In the project we are predicting Submarine hitted by Rock or mine by considering the Sonar data of Rock and Mine by applying Logistic Regression Model
