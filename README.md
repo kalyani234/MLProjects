@@ -9,3 +9,4 @@ A common example for multinomial logistic regression would be predicting the cla
 Here we will be using basic logistic regression to predict a binomial variable. This means it has only two possible outcomes.
 
 In the project we are predicting Submarine hitted by Rock or mine by considering the Sonar data of Rock and Mine by applying Logistic Regression Model
+
